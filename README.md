@@ -1,1 +1,1 @@
-v1.0 APK + source 
+Humanizer-v1.0-signed.apk + source.zip 
